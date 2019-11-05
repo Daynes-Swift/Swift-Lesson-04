@@ -1,3 +1,5 @@
+# Lesson 04 - Hello World
+
 # Exercise: Debugging
 Sometimes, you’ll add temporary print statements to figure out why your program isn’t working.
 
